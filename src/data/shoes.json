@@ -1,0 +1,7337 @@
+[
+  {
+    "brand": "Brooks",
+    "model": "Ghost",
+    "version": "15",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-ghost-15.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 12,
+      "stack_height_mm": 36,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 286
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Clifton",
+    "version": "9",
+    "price": "145",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-clifton-9.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "loose"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 33,
+      "cushioning_level": "soft",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "rocker",
+      "weight_grams": 248
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "recovery_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Kayano",
+    "version": "32",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-kyano-32.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "max_stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 40,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "smooth",
+      "weight_grams": 300
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Endorphin Speed",
+    "version": "4",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-endorphin-speed-4.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 229
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "speed_work",
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Altra",
+    "model": "Torin",
+    "version": "7",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/altra-torin-7.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "low_drop",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 30,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 260
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Pegasus",
+    "version": "41",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-pegasus-41.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 33,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 280
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Invincible Run",
+    "version": "3",
+    "price": "180",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-invincible-run-3.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 9,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 290
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "recovery_runs",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Nimbus",
+    "version": "26",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-nimbus-26.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 41,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 305
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Cumulus",
+    "version": "26",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-cumulus-26.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 37,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Adrenaline GTS",
+    "version": "23",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-adrenaline-gts-23.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "mild_stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 12,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "mild",
+      "ride_character": "smooth",
+      "weight_grams": 289
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Glycerin",
+    "version": "21",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-glycerin-21.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 290
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "recovery_runs",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Ride",
+    "version": "17",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-ride-17.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 35,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Guide",
+    "version": "17",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-guide-17.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "mild_stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "mild",
+      "ride_character": "responsive",
+      "weight_grams": 280
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Bondi",
+    "version": "8",
+    "price": "165",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-bondi-8.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "max_cushion",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "loose"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "rocker",
+      "weight_grams": 310
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "recovery_runs",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Speedgoat",
+    "version": "6",
+    "price": "155",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-speedgoat-6.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "trail",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 33,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "rocker",
+      "weight_grams": 290
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "trail_running",
+        "technical_terrain"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Altra",
+    "model": "Lone Peak",
+    "version": "8",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/altra-lone-peak-8.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "trail",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 25,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "trail_running",
+        "hiking"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "1080",
+    "version": "13",
+    "price": "165",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fresh-foam-1080-v13.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "loose"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 38,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "recovery_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "860",
+    "version": "13",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-860-v13.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "mild_stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "mild",
+      "ride_character": "smooth",
+      "weight_grams": 305
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudmonster",
+    "version": "2",
+    "price": "180",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudmonster-2.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 37,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudstratus",
+    "version": "3",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudstratus-3.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 290
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Ghost",
+    "version": "16",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-ghost-16.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 12,
+      "stack_height_mm": 36,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Ghost",
+    "version": "14",
+    "price": "130",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-ghost-14.avif",
+    "release_year": "2021",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 12,
+      "stack_height_mm": 35,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 286
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Clifton",
+    "version": "10",
+    "price": "145",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-clifton-10.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 33,
+      "cushioning_level": "soft",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "rocker",
+      "weight_grams": 247
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "recovery_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Bondi",
+    "version": "9",
+    "price": "165",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-bondi-9.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "max_cushion",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 39,
+      "cushioning_level": "very_soft",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "rocker",
+      "weight_grams": 305
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "recovery_runs",
+        "daily_training",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "knee_pain",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Speedgoat",
+    "version": "7",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-speedgoat-7.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "trail_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 33,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "rocker",
+      "weight_grams": 290
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "technical_trails",
+        "ultra_distance"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Kayano",
+    "version": "33",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-kayano-32.avif",
+    "release_year": "2026",
+    "fit": {
+      "category": "max_stability",
+      "arch_support_level": "high",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 40,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "very_high",
+      "ride_character": "smooth",
+      "weight_grams": 302
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Nimbus",
+    "version": "27",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-nimbus-27.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 41,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Cumulus",
+    "version": "27",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-cumulus-27.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Endorphin Speed",
+    "version": "5",
+    "price": "180",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-endorphin-speed-5.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "tempo_race",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 37,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 228
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "speed_work",
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Ride",
+    "version": "18",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-ride-18.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Guide",
+    "version": "18",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-guide-18.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "smooth",
+      "weight_grams": 280
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Altra",
+    "model": "Torin",
+    "version": "8",
+    "price": "155",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/altra-torin-8.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "low_drop",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 30,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 262
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Altra",
+    "model": "Lone Peak",
+    "version": "9",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/altra-lone-peak-9.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "trail_zero_drop",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 25,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "natural",
+      "weight_grams": 280
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "hiking",
+        "trail_running"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Pegasus",
+    "version": "40",
+    "price": "130",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-pegasus-40.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 33,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 280
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Invincible Run",
+    "version": "4",
+    "price": "190",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-invincible-run-4.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "max_cushion",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "loose"
+    },
+    "ride": {
+      "drop_mm": 9,
+      "stack_height_mm": 40,
+      "cushioning_level": "very_soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "recovery_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "1080",
+    "version": "14",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fresh-foam-1080-v14.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 38,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "860",
+    "version": "14",
+    "price": "145",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fresh-foam-860-v14.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "supportive",
+      "weight_grams": 290
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudmonster",
+    "version": "1",
+    "price": "180",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudmonster-1.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 34,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudmonster",
+    "version": "3",
+    "price": "190",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudmonster-2.avif",
+    "release_year": "2026",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 35,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 274
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudstratus",
+    "version": "4",
+    "price": "190",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudstratus-4.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Launch",
+    "version": "10",
+    "price": "110",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-launch-10.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 30,
+      "cushioning_level": "firm",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 235
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "tempo_runs"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Levitate",
+    "version": "6",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-levitate-6.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 33,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "springy",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Mach",
+    "version": "6",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-mach-6.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "tempo_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 37,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 232
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Rincon",
+    "version": "4",
+    "price": "125",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-rincon-4.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "lightweight_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 33,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "fast",
+      "weight_grams": 218
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "low",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Arahi",
+    "version": "7",
+    "price": "145",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-arahi-7.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "high",
+      "ride_character": "rocker",
+      "weight_grams": 272
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Gaviota",
+    "version": "5",
+    "price": "175",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-gaviota-5.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "max_stability",
+      "arch_support_level": "high",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 40,
+      "cushioning_level": "very_soft",
+      "energy_return": "low",
+      "stability_level": "very_high",
+      "ride_character": "plush",
+      "weight_grams": 310
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "plantar_fasciitis"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Novablast",
+    "version": "4",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-novablast-4.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral_bouncy",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 41,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 252
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "GT-2000",
+    "version": "12",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gt-2000-12.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "smooth",
+      "weight_grams": 270
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Triumph",
+    "version": "21",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-triumph-21.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "max_cushion",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 39,
+      "cushioning_level": "very_soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 290
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Kinvara",
+    "version": "14",
+    "price": "120",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-kinvara-14.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "lightweight_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 31,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "natural",
+      "weight_grams": 213
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Axon",
+    "version": "3",
+    "price": "100",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-axon-3.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 35,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 265
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Vomero",
+    "version": "17",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-vomero-17.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 39,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 292
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Structure",
+    "version": "25",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-structure-25.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "supportive",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "InfinityRN",
+    "version": "4",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-infinityrn-4.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "max_cushion",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "loose"
+    },
+    "ride": {
+      "drop_mm": 9,
+      "stack_height_mm": 40,
+      "cushioning_level": "very_soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 305
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "recovery_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "880",
+    "version": "14",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fresh-foam-880-v14.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "Fresh Foam More",
+    "version": "4",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fresh-foam-more-v4.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "max_cushion",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 40,
+      "cushioning_level": "very_soft",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "walking",
+        "recovery_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "plantar_fasciitis"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "Rebel",
+    "version": "4",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-rebel-v4.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "lightweight_tempo",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 30,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 215
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudsurfer",
+    "version": "7",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudsurfer-7.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 32,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 245
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "recovery_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudflow",
+    "version": "4",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudflow-4.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "lightweight_tempo",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 9,
+      "stack_height_mm": 30,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 235
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudrunner",
+    "version": "2",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudrunner-2.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "stability_neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 9,
+      "stack_height_mm": 32,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "supportive",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Mizuno",
+    "model": "Wave Rider",
+    "version": "27",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/mizuno-wave-rider-27.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 12,
+      "stack_height_mm": 38,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Mizuno",
+    "model": "Wave Inspire",
+    "version": "20",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/mizuno-wave-inspire-20.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 12,
+      "stack_height_mm": 38,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "supportive",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Adidas",
+    "model": "Adizero Boston",
+    "version": "12",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/adidas-adizero-boston-12.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "tempo_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 39,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 267
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Adidas",
+    "model": "Supernova Rise",
+    "version": "1",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/adidas-supernova-rise.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 36,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Puma",
+    "model": "Deviate Nitro",
+    "version": "2",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/puma-deviate-nitro-2.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "tempo_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 38,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 257
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Puma",
+    "model": "Velocity Nitro",
+    "version": "3",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/puma-velocity-nitro-3.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 265
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Topo Athletic",
+    "model": "Magnifly",
+    "version": "5",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/topo-athletic-magnifly-5.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "zero_drop",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 28,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "natural",
+      "weight_grams": 255
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Topo Athletic",
+    "model": "Phantom",
+    "version": "3",
+    "price": "145",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/topo-athletic-phantom-3.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 35,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Salomon",
+    "model": "Aero Glide",
+    "version": "1",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/salomon-aero-glide.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 37,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 263
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Salomon",
+    "model": "Aero Volt",
+    "version": "1",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/salomon-aero-volt.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "lightweight_tempo",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 30,
+      "cushioning_level": "firm",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "fast",
+      "weight_grams": 210
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Skechers",
+    "model": "Razor",
+    "version": "4",
+    "price": "145",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/skechers-go-run-razor-4.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "lightweight_tempo",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 215
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Skechers",
+    "model": "MaxRoad",
+    "version": "6",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/skechers-max-road-6.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "max_cushion",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 40,
+      "cushioning_level": "very_soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 280
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "recovery_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Under Armour",
+    "model": "Flow Velociti Wind",
+    "version": "2",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/under-armour-flow-velociti-wind-2.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "lightweight_tempo",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 26,
+      "cushioning_level": "firm",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "fast",
+      "weight_grams": 230
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Vaporfly",
+    "version": "3",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-vaporfly-3.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "race_super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "very_high",
+      "stability_level": "low",
+      "ride_character": "bouncy",
+      "weight_grams": 198
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "low",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Alphafly",
+    "version": "3",
+    "price": "285",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-alphafly-3.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "race_super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 40,
+      "cushioning_level": "very_soft",
+      "energy_return": "very_high",
+      "stability_level": "low",
+      "ride_character": "springy",
+      "weight_grams": 218
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "low",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Endorphin Pro",
+    "version": "4",
+    "price": "225",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-endorphin-pro-4.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "race_super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 39,
+      "cushioning_level": "medium",
+      "energy_return": "very_high",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 204
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Metaspeed Sky+",
+    "version": "1",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-metaspeed-sky-plus.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "race_super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 39,
+      "cushioning_level": "soft",
+      "energy_return": "very_high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 205
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Metaspeed Edge+",
+    "version": "1",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-metaspeed-edge-paris.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "race_super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 39,
+      "cushioning_level": "soft",
+      "energy_return": "very_high",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 210
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Adidas",
+    "model": "Adizero Adios Pro",
+    "version": "3",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/adidas-adizero-adios-pro-3.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "race_super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 39,
+      "cushioning_level": "soft",
+      "energy_return": "very_high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 218
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Rocket X",
+    "version": "2",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-rocket-x-2.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "race_super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "very_high",
+      "stability_level": "neutral",
+      "ride_character": "springy",
+      "weight_grams": 210
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "SC Elite",
+    "version": "4",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-sc-elite-v4.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "race_super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "very_high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 218
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudboom Echo",
+    "version": "3",
+    "price": "290",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudboom-echo-3.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "race_super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 9,
+      "stack_height_mm": 39,
+      "cushioning_level": "firm",
+      "energy_return": "very_high",
+      "stability_level": "low",
+      "ride_character": "rigid",
+      "weight_grams": 215
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "low",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Puma",
+    "model": "Fast-R Nitro Elite",
+    "version": "1",
+    "price": "260",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/puma-fast-r-nitro-elite.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "race_super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "very_high",
+      "stability_level": "low",
+      "ride_character": "aggressive",
+      "weight_grams": 220
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "low",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Mafate Speed",
+    "version": "4",
+    "price": "185",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-mafate-speed-4.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "trail_max_cushion",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 33,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "rocker",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "technical_trails",
+        "ultra_distance"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Cascadia",
+    "version": "17",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-cascadia-17.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "trail_stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 31,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "high",
+      "ride_character": "stable",
+      "weight_grams": 298
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "technical_trails",
+        "hiking"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Peregrine",
+    "version": "14",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-peregrine-14.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "trail_all_terrain",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 28,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "aggressive",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "technical_trails",
+        "shorter_trail_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Altra",
+    "model": "Timp",
+    "version": "5",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/altra-timp-5.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "trail_zero_drop",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 29,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "natural",
+      "weight_grams": 290
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "long_trail_runs",
+        "hiking"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Topo Athletic",
+    "model": "Ultraventure",
+    "version": "3",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/topo-ultraventure-3.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "trail_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 35,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "ultra_distance",
+        "hiking"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Salomon",
+    "model": "Sense Ride",
+    "version": "5",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/salomon-sense-ride-5.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "trail_hybrid",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 32,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 286
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "moderate_trails",
+        "road_to_trail"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Ultrafly",
+    "version": "1",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-ultrafly.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "trail_plated",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 37,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "springy",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "racing",
+        "fast_trail_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "Hierro",
+    "version": "8",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-hierro-8.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "trail_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 33,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 310
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "long_trail_runs",
+        "hiking"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudventure Peak",
+    "version": "3",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudventure-peak-3.avif",
+    "release_year": "2024",
+    "fit": {
+      "category": "trail_race",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "snug",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 28,
+      "cushioning_level": "firm",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "aggressive",
+      "weight_grams": 240
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "technical_trails",
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Launch GTS",
+    "version": "10",
+    "price": "110",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-launch-gts-10.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "stability_light",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 30,
+      "cushioning_level": "firm",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "responsive",
+      "weight_grams": 240
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "tempo_runs"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Winflo",
+    "version": "10",
+    "price": "100",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-winflo-10.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 33,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Gel-Excite",
+    "version": "10",
+    "price": "90",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-excite-10.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 30,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "basic",
+      "weight_grams": 270
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "walking",
+        "beginner_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "FuelCell Propel",
+    "version": "4",
+    "price": "110",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fuelcell-propel-4.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral_bouncy",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 34,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 260
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "tempo_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Puma",
+    "model": "Twitch",
+    "version": "2",
+    "price": "75",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/puma-twitch-2.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral_lightweight",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 28,
+      "cushioning_level": "firm",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "fast",
+      "weight_grams": 235
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "gym_training",
+        "short_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "low",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Skechers",
+    "model": "GOrun Ride",
+    "version": "11",
+    "price": "110",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/skechers-gorun-ride-11.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 34,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 260
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Pegasus",
+    "version": "38",
+    "price": "120",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-pegasus-39.avif",
+    "release_year": "2021",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 33,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Pegasus",
+    "version": "39",
+    "price": "130",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-pegasus-39.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 33,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 280
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Clifton",
+    "version": "8",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-clifton-8.avif",
+    "release_year": "2021",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 29,
+      "cushioning_level": "soft",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "rocker",
+      "weight_grams": 250
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "recovery_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Endorphin Speed",
+    "version": "3",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-endorphin-speed-3.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "tempo_race",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 229
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work",
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Novablast",
+    "version": "3",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-novablast-3.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "neutral_bouncy",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 39,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 253
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Altra",
+    "model": "Torin",
+    "version": "6",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/altra-torin-6.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "zero_drop",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 28,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "natural",
+      "weight_grams": 255
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "1080",
+    "version": "12",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fresh-foam-1080-v12.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 280
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "plantar_fasciitis"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "1080",
+    "version": "13",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fresh-foam-1080-v13.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 38,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Adidas",
+    "model": "Adizero Boston",
+    "version": "11",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/adidas-adizero-boston-11.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "tempo_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 39,
+      "cushioning_level": "firm",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "rigid",
+      "weight_grams": 271
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Altra",
+    "model": "Escalante",
+    "version": "3",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/altra-escalante-3.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "zero_drop_minimal",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 24,
+      "cushioning_level": "low",
+      "energy_return": "medium",
+      "stability_level": "low",
+      "ride_character": "flexible",
+      "weight_grams": 263
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "natural_running",
+        "gym_training"
+      ]
+    },
+    "injury_tags": [
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Topo Athletic",
+    "model": "ST",
+    "version": "5",
+    "price": "120",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/topo-st-5.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "minimal_zero_drop",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 16,
+      "cushioning_level": "low",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "natural",
+      "weight_grams": 187
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "natural_running",
+        "gym_training"
+      ]
+    },
+    "injury_tags": [
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Addiction",
+    "version": "15",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-addiction-15.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "max_stability",
+      "arch_support_level": "high",
+      "width_options": [
+        "standard",
+        "wide",
+        "extra_wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 12,
+      "stack_height_mm": 32,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "very_high",
+      "ride_character": "supportive",
+      "weight_grams": 335
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "walking",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "shin_splints",
+      "flat_feet"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Stinson ATR",
+    "version": "7",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-stinson-7.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "max_cushion_hybrid",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 39,
+      "cushioning_level": "very_soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 320
+    },
+    "use_case": {
+      "terrain": "road_to_trail",
+      "best_for": [
+        "ultra_distance",
+        "hiking"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Free RN",
+    "version": "2021",
+    "price": "100",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-free-rn-2021.avif",
+    "release_year": "2021",
+    "fit": {
+      "category": "minimal_flexible",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "medium"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 26,
+      "cushioning_level": "low",
+      "energy_return": "low",
+      "stability_level": "low",
+      "ride_character": "flexible",
+      "weight_grams": 227
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "gym_training",
+        "short_runs"
+      ]
+    },
+    "injury_tags": [
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "low",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudnova",
+    "version": "1",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudnova.avif",
+    "release_year": "2021",
+    "fit": {
+      "category": "lifestyle_crossover",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "loose"
+    },
+    "ride": {
+      "drop_mm": 7,
+      "stack_height_mm": 30,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "walking",
+        "casual_training"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "Fresh Foam More Trail",
+    "version": "3",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fresh-foam-more-trail-v3.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "trail_max_cushion",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 40,
+      "cushioning_level": "very_soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 320
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "ultra_distance",
+        "hiking"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "intermediate|advanced"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Echelon",
+    "version": "9",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-echelon-9.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "neutral_stable",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide",
+        "extra_wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 35,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "high",
+      "ride_character": "supportive",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "walking",
+        "orthotics",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "flat_feet",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Gel-Kayano Lite",
+    "version": "3",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-kayano-lite-3.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "stability_light",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "smooth",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Dyad",
+    "version": "11",
+    "price": "130",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-dyad-11.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "neutral_stable",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard",
+        "wide",
+        "extra_wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 32,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "high",
+      "ride_character": "supportive",
+      "weight_grams": 322
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "walking",
+        "orthotics",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "flat_feet",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Tracksmith",
+    "model": "Eliot Runner",
+    "version": "1",
+    "price": "198",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/tracksmith-eliot-runner.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 9,
+      "stack_height_mm": 33,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "easy_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Diadora",
+    "model": "Mythos Blushield Volo",
+    "version": "3",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/diadora-mythos-blushield-volo-3.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Diadora",
+    "model": "Mythos Blushield Vigore",
+    "version": "2",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/diadora-mythos-blushield-vigore-2.avif",
+    "release_year": "2023",
+    "fit": {
+      "category": "max_stability",
+      "arch_support_level": "high",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 36,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "very_high",
+      "ride_character": "plush",
+      "weight_grams": 315
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "walking"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain",
+      "flat_feet"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner|intermediate"
+    }
+  },
+  {
+    "brand": "Diadora",
+    "model": "Equipe Atomo",
+    "version": "v7000",
+    "price": "195",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/diadora-equipe-atomo-v7000.avif",
+    "release_year": "2022",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 33,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 260
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Diadora",
+    "model": "Atomo",
+    "version": "1",
+    "price": "180",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/diadora-atomo-star.avif",
+    "release_year": "2021",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 32,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 265
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Pegasus",
+    "version": "42",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-pegasus-41.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 280
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Clifton",
+    "version": "10",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-clifton-10.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 33,
+      "cushioning_level": "soft",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "rocker",
+      "weight_grams": 248
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "recovery_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Gel-Nimbus",
+    "version": "27",
+    "price": "165",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-nimbus-27.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 41,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 305
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Ride",
+    "version": "18",
+    "price": "145",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-ride-18.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 250
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Ghost",
+    "version": "16",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-ghost-16.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide",
+        "extra_wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 12,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 286
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "880",
+    "version": "15",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-880-v15.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudsurfer",
+    "version": "8",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudsurfer-7.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 32,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 245
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "recovery_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Puma",
+    "model": "Velocity Nitro",
+    "version": "4",
+    "price": "145",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/puma-velocity-nitro-4.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 265
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Bondi",
+    "version": "9",
+    "price": "165",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-bondi-9.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "rocker",
+      "weight_grams": 310
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "recovery_runs",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Glycerin",
+    "version": "22",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-glycerin-22.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 38,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Triumph",
+    "version": "22",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-triumph-22.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 39,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 290
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "Fresh Foam More",
+    "version": "v6",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fresh-foam-more-v6.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "plush",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "recovery_runs",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Gel-Kinsei Max",
+    "version": "2",
+    "price": "180",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-kinsei-max-2.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "neutral_cushioned",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 42,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 315
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Novablast",
+    "version": "5",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-novablast-5.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "tempo_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 39,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 250
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Puma",
+    "model": "Deviate Nitro",
+    "version": "3",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/puma-deviate-nitro-3.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "tempo_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 38,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 255
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Adidas",
+    "model": "Adizero Boston",
+    "version": "13",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/adidas-adizero-boston-13.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "tempo_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 40,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 265
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudflow",
+    "version": "5",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudflow-5.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "tempo_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 9,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 235
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "FuelCell Rebel",
+    "version": "v5",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fuelcell-rebel-v5.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "tempo_trainer",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 33,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 215
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "speed_work"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Vaporfly",
+    "version": "4",
+    "price": "260",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-vaporfly-4.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "propulsive",
+      "weight_grams": 195
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing",
+        "tempo_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Alphafly",
+    "version": "4",
+    "price": "285",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-alphafly-3.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "springy",
+      "weight_grams": 210
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Metaspeed Sky Tokyo",
+    "version": "2",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-metaspeed-sky-plus-2.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 205
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Metaspeed Edge Tokyo",
+    "version": "2",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-metaspeed-edge-2.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 40,
+      "cushioning_level": "soft",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 210
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Endorphin Pro",
+    "version": "5",
+    "price": "225",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-endorphin-pro-5.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 39,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 195
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Adidas",
+    "model": "Adizero Adios Pro",
+    "version": "4",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/adidas-adios-pro-4.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 40,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "propulsive",
+      "weight_grams": 215
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "SC Elite",
+    "version": "v5",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fuelcell-supercomp-elite-v5.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 40,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 210
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Puma",
+    "model": "Fast-R Nitro Elite",
+    "version": "3",
+    "price": "260",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/puma-fast-r-nitro-elite-3.avif",
+    "release_year": "2026",
+    "fit": {
+      "category": "super_shoe",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 40,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "aggressive",
+      "weight_grams": 215
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "racing"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Gel-Kayano",
+    "version": "32",
+    "price": "170",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-kayano-32.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "high",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 40,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "smooth",
+      "weight_grams": 315
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "overpronation",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Structure",
+    "version": "26",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-structure-26.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "high",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "stable",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "overpronation",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Arahi",
+    "version": "8",
+    "price": "145",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-arahi-8.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "high",
+      "ride_character": "rocker",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "recovery_runs"
+      ]
+    },
+    "injury_tags": [
+      "overpronation",
+      "plantar_fasciitis"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Adrenaline GTS",
+    "version": "25",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-adrenaline-gts-25.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "high",
+      "width_options": [
+        "standard",
+        "wide",
+        "extra_wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 12,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "smooth",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "overpronation",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "Vongo",
+    "version": "v6",
+    "price": "165",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-vongo-v6.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "high",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 38,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "smooth",
+      "weight_grams": 290
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "overpronation",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Guide",
+    "version": "18",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-guide-18.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "stability",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "high",
+      "ride_character": "smooth",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "overpronation",
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Hoka",
+    "model": "Speedgoat",
+    "version": "7",
+    "price": "155",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/hoka-speedgoat-7.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "trail",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "roomy",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 38,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "rocker",
+      "weight_grams": 295
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "technical_trails",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "ankle_instability"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Peregrine",
+    "version": "15",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-peregrine-15.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "trail",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 4,
+      "stack_height_mm": 32,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "aggressive",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "technical_trails",
+        "short_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Ultrafly",
+    "version": "2",
+    "price": "250",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-ultrafly-2.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "trail",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 40,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "propulsive",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "racing",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Salomon",
+    "model": "Sense Ride",
+    "version": "6",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/salomon-sense-ride-6.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "trail",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 32,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "daily_training",
+        "light_trails"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Altra",
+    "model": "Lone Peak",
+    "version": "9",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/altra-lone-peak-9.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "trail",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "wide",
+      "heel_fit": "loose"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 25,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "natural",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "hiking",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Topo Athletic",
+    "model": "Ultraventure",
+    "version": "4",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/topo-athletic-ultraventure-4.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "trail",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "wide",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 35,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 285
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Nike",
+    "model": "Winflo",
+    "version": "11",
+    "price": "100",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nike-winflo-11.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "budget",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 32,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Asics",
+    "model": "Gel-Excite",
+    "version": "11",
+    "price": "90",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/asics-gel-excite-11.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "budget",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 30,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 270
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Launch",
+    "version": "11",
+    "price": "110",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-launch-11.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "budget",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "snappy",
+      "weight_grams": 235
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Puma",
+    "model": "Twitch",
+    "version": "3",
+    "price": "75",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/puma-twitch-2.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "budget",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 30,
+      "cushioning_level": "firm",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 245
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "short_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "New Balance",
+    "model": "FuelCell Propel",
+    "version": "v5",
+    "price": "110",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/new-balance-fuelcell-propel-v5.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "budget",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "bouncy",
+      "weight_grams": 260
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "shin_splints"
+    ],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Altra",
+    "model": "Escalante",
+    "version": "4",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/altra-escalante-4.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "minimal_zero_drop",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "wide",
+      "heel_fit": "loose"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 24,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "natural",
+      "weight_grams": 245
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "short_runs"
+      ]
+    },
+    "injury_tags": [
+      "achilles_issues"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Topo Athletic",
+    "model": "ST-6",
+    "version": "6",
+    "price": "120",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/topo-athletic-st-6.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "minimal_zero_drop",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "wide",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 0,
+      "stack_height_mm": 23,
+      "cushioning_level": "firm",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 215
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "speed_work",
+        "short_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "budget",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "On",
+    "model": "Cloudnova",
+    "version": "2",
+    "price": "160",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/on-cloudnova-2.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "lifestyle_running",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 30,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "casual_running",
+        "walking"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Brooks",
+    "model": "Dyad",
+    "version": "12",
+    "price": "140",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/brooks-dyad-11.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "niche_support",
+      "arch_support_level": "low",
+      "width_options": [
+        "standard",
+        "wide",
+        "extra_wide"
+      ],
+      "toe_box_shape": "wide",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "stable",
+      "weight_grams": 320
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "walking",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Saucony",
+    "model": "Echelon",
+    "version": "10",
+    "price": "150",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/saucony-echelon-10.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "niche_support",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard",
+        "wide"
+      ],
+      "toe_box_shape": "wide",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 8,
+      "stack_height_mm": 36,
+      "cushioning_level": "medium",
+      "energy_return": "low",
+      "stability_level": "neutral",
+      "ride_character": "stable",
+      "weight_grams": 315
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "walking",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [
+      "plantar_fasciitis",
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "midrange",
+      "durability_rating": "high",
+      "experience_level": "beginner"
+    }
+  },
+  {
+    "brand": "Tracksmith",
+    "model": "Eliot Runner",
+    "version": "2",
+    "price": "198",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/tracksmith-eliot-runner.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "boutique_indie",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 265
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Diadora",
+    "model": "Atomo v2",
+    "version": "2",
+    "price": "190",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/diadora-atomo-v2.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "boutique_indie",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 5,
+      "stack_height_mm": 34,
+      "cushioning_level": "medium",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 275
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [
+      "knee_pain"
+    ],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "Newton",
+    "model": "Gravity",
+    "version": "13",
+    "price": "180",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/newton-gravity-13.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "boutique_indie",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "snug"
+    },
+    "ride": {
+      "drop_mm": 3,
+      "stack_height_mm": 32,
+      "cushioning_level": "firm",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "responsive",
+      "weight_grams": 245
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "tempo_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "advanced"
+    }
+  },
+  {
+    "brand": "Craft",
+    "model": "CTM Ultra 3",
+    "version": "3",
+    "price": "180",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/craft-ctm-ultra-3.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "boutique_indie",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 10,
+      "stack_height_mm": 40,
+      "cushioning_level": "medium",
+      "energy_return": "high",
+      "stability_level": "neutral",
+      "ride_character": "propulsive",
+      "weight_grams": 260
+    },
+    "use_case": {
+      "terrain": "road",
+      "best_for": [
+        "long_runs",
+        "daily_training"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "medium",
+      "experience_level": "intermediate"
+    }
+  },
+  {
+    "brand": "NNormal",
+    "model": "Kjerag 02",
+    "version": "1",
+    "price": "215",
+    "affiliate_link": "https://example.com",
+    "image_url": "/shoes-normalized/nnormal-kjerag-02.avif",
+    "release_year": "2025",
+    "fit": {
+      "category": "boutique_indie",
+      "arch_support_level": "medium",
+      "width_options": [
+        "standard"
+      ],
+      "toe_box_shape": "standard",
+      "heel_fit": "secure"
+    },
+    "ride": {
+      "drop_mm": 6,
+      "stack_height_mm": 36,
+      "cushioning_level": "low",
+      "energy_return": "medium",
+      "stability_level": "neutral",
+      "ride_character": "smooth",
+      "weight_grams": 230
+    },
+    "use_case": {
+      "terrain": "trail",
+      "best_for": [
+        "daily_training",
+        "long_runs"
+      ]
+    },
+    "injury_tags": [],
+    "meta": {
+      "budget_category": "premium",
+      "durability_rating": "high",
+      "experience_level": "intermediate"
+    }
+  }
+]

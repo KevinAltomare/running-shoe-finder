@@ -1,0 +1,473 @@
+/* -------------------------------------------------------
+   GLOBAL BASE STYLES
+------------------------------------------------------- */
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: #222;
+  background-color: #ffffff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: block;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background: #fafafa;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  padding: 0.9rem 1.6rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 10px;
+  border: none;
+  background: #111;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+button:hover {
+  background: #333;
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+.options-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  margin-top: 1.5rem;
+}
+
+button.answer-option {
+  padding: 1.1rem 1.25rem;
+  border-radius: 12px;
+  background: #fdfdfd;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+button.answer-option:hover {
+  background: #f7f7f7;
+}
+
+button.answer-option:active {
+  background: #eee;
+  transform: scale(0.98);
+}
+
+
+button.answer-option:hover {
+  background: #f7f7f7;
+}
+
+button.answer-option:active {
+  transform: scale(0.98);
+  background: #eee;
+}
+
+.shoe-price {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #111;
+  margin: 0.25rem 0 0.75rem;
+}
+
+/* -------------------------------------------------------
+   RESULTS PAGE LAYOUT
+------------------------------------------------------- */
+
+.results-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+  animation: fadeIn 200ms ease forwards;
+  opacity: 0;
+}
+
+.results-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.results-header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.results-subtitle {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.results-grid {
+  display: grid;
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+  align-items: start;
+}
+
+/* Mobile: 1 card per row */
+@media (max-width: 599px) {
+  .results-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Tablet: 2 cards per row */
+@media (min-width: 600px) and (max-width: 959px) {
+  .results-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Desktop: 3 cards per row */
+@media (min-width: 960px) {
+  .results-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.results-footer {
+  text-align: center;
+}
+
+.retake-button {
+  margin-top: 2rem;
+}
+
+
+/* -------------------------------------------------------
+   ANIMATIONS
+------------------------------------------------------- */
+
+.fade {
+  opacity: 0;
+  animation: fadeIn 180ms ease forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.fade-lift {
+  opacity: 0;
+  transform: translateY(2px);
+  animation: fadeLift 160ms ease forwards;
+}
+
+@keyframes fadeLift {
+  from {
+    opacity: 0;
+    transform: translateY(2px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/* --------------------------------------------------------
+   QUIZ
+---------------------------------------------------------*/
+.quiz-page {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.quiz-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 14px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+  opacity: 0;
+  transform: translateY(8px);
+  animation: quizCardFade 180ms ease-out forwards;
+}
+
+@keyframes quizCardFade {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+
+.answer-option {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: 10px;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  text-align: left;
+  font-size: 1rem;
+  color: #222;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.answer-option:hover {
+  background: #f0f0f0;
+}
+
+.answer-option:active {
+  transform: scale(0.98);
+}
+
+.quiz-question {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+  color: #222;
+}
+
+.answer-option {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: 10px;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  text-align: left;
+  font-size: 1rem;
+  color: #222;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.quiz-section {
+  margin-bottom: 2rem;
+}
+
+.quiz-start-wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.quiz-start-card {
+  background: white;
+  padding: 2.5rem 2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.06);
+  text-align: center;
+  opacity: 0;
+  transform: translateY(10px);
+  animation: fadeUp 250ms ease-out forwards;
+}
+@keyframes fadeUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.quiz-start-card h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #222;
+}
+
+.start-subtext {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+.start-button {
+ width: 50%;
+ margin-top: 1rem;
+ transition: all 180ms ease;
+ transform: translateY(0) scale(1);
+ box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.start-button:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+.start-footer {
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+  color: #777;
+}
+/* -------------------------------------------------------
+   PROGRESS BAR (QUIZ)
+------------------------------------------------------- */
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: #eee;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+}
+
+.progress-fill {
+  height: 100%;
+  background: black;
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  text-align: center;
+  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+.answer-option:active {
+  transform: scale(0.98);
+  transition: transform 80ms ease;
+}
+
+/* -------------------------------------------------------
+   SHOE CARD — NEW PREMIUM STYLES
+------------------------------------------------------- */
+
+.shoe-card {
+  background: white;
+  border-radius: 14px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  color: #222;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.shoe-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  z-index: 2;
+}
+
+.shoe-image {
+  width: 100%;
+  height: 180px;
+  object-fit: contain;
+  display: block;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.shoe-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0;
+  color: #111;
+}
+
+.shoe-tagline {
+  color: #666;
+  font-size: 0.95rem;
+  margin-top: 0.25rem;
+}
+
+.shoe-info {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.shoe-attributes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.75rem;
+}
+
+.shoe-attribute {
+  background: #f5f5f5;
+  padding: 0.35rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  color: #444;
+}
+
+/* -------------------------------------------------------
+   WHY WE PICKED THIS — PREMIUM DROPDOWN
+------------------------------------------------------- */
+
+.why-container {
+  margin-top: 1rem;
+}
+
+.why-toggle {
+  background: none;
+  border: none;
+  color: #444;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+  transition: color 0.2s ease;
+}
+
+.why-toggle:hover {
+  color: #000;
+}
+
+.why-list {
+  margin-top: 0.75rem;
+  padding-left: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.why-item {
+  font-size: 0.9rem;
+  line-height: 1.35;
+  color: #555;
+  position: relative;
+}
+
+.why-item::before {
+  content: "•";
+  position: absolute;
+  left: -1rem;
+  color: #999;
+}
