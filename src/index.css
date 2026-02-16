@@ -471,3 +471,178 @@ button.answer-option:active {
   left: -1rem;
   color: #999;
 }
+
+.cta-primary {
+  display: inline-block;
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
+  padding: 0.9rem 1.4rem;
+  background: #111;
+  color: #fff;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.cta-primary:hover {
+  background: #333;
+  transform: translateY(-2px);
+}
+
+.cta-primary:active {
+  transform: scale(0.97);
+}
+
+.related-section {
+  margin-top: 3.5rem;
+  padding-top: 2.5rem;
+  border-top: 1px solid #e6e6e6;
+}
+
+.related-heading {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  opacity: 0.9;
+}
+
+.related-guides {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
+}
+
+.related-guides li {
+  margin-bottom: 0.4rem;
+}
+
+.related-guides a {
+  color: #444;
+  text-decoration: none;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 2px;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.related-guides a:hover {
+  color: #111;
+  border-color: #111;
+}
+
+.recommendation-list {
+  margin-top: 0.75rem;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.recommendation-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.recommendation-item {
+  padding: 1rem 1.25rem;
+  background: #fdfdfd;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;  
+}
+
+.recommendation-thumb {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 4px;
+  flex-shrink: 0;
+}
+
+.recommendation-text strong {
+  font-size: 1.05rem;
+  color: #111;
+}
+
+.recommendation-text p {
+  margin: 0.35rem 0 0;
+  color: #444;
+  line-height: 1.45;
+}
+
+
+
+.recommendation-item strong {
+  font-size: 1.05rem;
+  color: #111;
+}
+
+.recommendation-item p {
+  margin: 0.35rem 0 0;
+  color: #444;
+  line-height: 1.45;
+}
+
+.seo-page {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.seo-page h2 {
+  margin-top: 2.5rem;  
+  margin-bottom: 0.75rem; 
+}
+
+.seo-page ul {
+  margin-top: 0.5rem;  
+  margin-bottom: 1.5rem;
+}
+.common-issues {
+  margin-top: 2.5rem;
+}
+
+.common-issues-heading {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.common-issues-list {
+  margin: 0.5rem 0 0;
+  padding-left: 1.25rem;
+  line-height: 1.5;
+}
+
+
+.affiliate-disclaimer {
+  margin-top: 1.5rem;
+  font-size: 0.75rem;
+  color: #999;
+}
+
+.affiliate-button {
+  display: inline-block;
+  align-self: flex-start;
+  padding: 0.45rem 0.75rem;
+  margin-top: 0.6rem;
+  background: #f5f5f5;
+  color: #111;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  border: 1px solid #ddd;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.affiliate-button:hover {
+  background: #e9e9e9;
+  border-color: #ccc;
+}

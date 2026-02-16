@@ -1,6 +1,7 @@
 // ShoeCard.jsx
 import { useState } from "react";
 import { formatAttributes } from "../logic/attributeHelpers";
+import AffiliateButton from "../components/AffiliateButton";
 
 export default function ShoeCard({ shoe, explanation, tagline }) {
   const [open, setOpen] = useState(false);
@@ -18,7 +19,7 @@ export default function ShoeCard({ shoe, explanation, tagline }) {
         <h2 className="shoe-title">
           {shoe.brand} {shoe.model} {shoe.version}
         </h2>
-        <p className="shoe-price">${shoe.price}</p>
+        
 
         <p className="shoe-tagline">{tagline}</p>
 
@@ -50,6 +51,8 @@ export default function ShoeCard({ shoe, explanation, tagline }) {
             </ul>
           )}
         </div>
+        <AffiliateButton href={shoe.affiliateLink} />
+
       </div>
     </div>
   );
