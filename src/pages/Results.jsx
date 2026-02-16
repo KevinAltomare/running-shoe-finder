@@ -26,6 +26,14 @@ export default function Results() {
 
   return (
     <div className="results-page">
+
+    <div className="brand-header">
+    <h1 className="brand-title">RunMatch</h1>
+    <p className="brand-tagline">the running shoe finder</p>
+  </div>
+
+
+
       <header className="results-header">
         <h1>Your Personalized Running Shoe Matches</h1>
         <p className="results-subtitle">

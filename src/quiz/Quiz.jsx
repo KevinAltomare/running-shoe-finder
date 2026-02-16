@@ -4,18 +4,27 @@ import Question from "./Question";
 import ProgressBar from "./ProgressBar";
 
 export default function Quiz({ onComplete }) {
-  // 1. All your state goes here
+  
   const [showStart, setShowStart] = useState(true);
   const [step, setStep] = useState(0);
   const [answers, setAnswers] = useState({});
 
   const current = quizData[step];
 
-  // 2. Start screen goes right after state
+  
   if (showStart) {
     return (
      <div className="quiz-start-wrapper">
+       
+      <div className="brand-header">
+        <h1 className="brand-title">RunMatch</h1>
+        <p className="brand-tagline">the running shoe finder</p>
+      </div>
+
+
+
       <div className="quiz-start-card">
+        
         <h1>Find Your Perfect Running Shoe</h1>
 
         <p className="start-subtext">
@@ -39,7 +48,7 @@ export default function Quiz({ onComplete }) {
 
  
 
-  // 3. Your existing answer handler stays the same
+  
   function handleAnswer(value) {
     const updated = { ...answers, [current.id]: value };
     setAnswers(updated);
@@ -51,7 +60,7 @@ export default function Quiz({ onComplete }) {
     }
   }
 
-  // 4. Your normal quiz UI stays at the bottom
+  
   return (
     <div className="quiz-page">
       <div className="quiz-card">

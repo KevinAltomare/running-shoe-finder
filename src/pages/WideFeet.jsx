@@ -2,7 +2,17 @@ import AffiliateButton from "../components/AffiliateButton";
 export default function WideFeet() {
   return (
     <div className="seo-page">
+      
+        <div className="brand-header">
+            <h1 className="brand-title">RunMatch</h1>
+            <p className="brand-tagline">the running shoe finder</p>
+        </div>
+
+
+
+    <header className="seo-header">
       <h1>Best Running Shoes for Wide Feet (2026 Guide)</h1>
+    </header>
 
       <p>
       Running with wide feet can feel uncomfortable if your shoes 

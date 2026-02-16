@@ -279,7 +279,7 @@ button.answer-option:active {
 .quiz-start-wrapper {
   max-width: 600px;
   margin: 0 auto;
-  padding: 2rem 1.5rem;
+  padding: 1rem 1.5rem;
 }
 
 .quiz-start-card {
@@ -646,3 +646,25 @@ button.answer-option:active {
   background: #e9e9e9;
   border-color: #ccc;
 }
+
+.brand-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.05rem;
+}
+
+.brand-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  line-height: 1;
+  margin: 0;
+}
+
+.brand-tagline {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.01rem;
+}
+
