@@ -48,7 +48,7 @@ export default function Beginners() {
                 Great for beginners who want a smooth, cushioned ride.
             </p>
 
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4akHZXF" />
 
         </div>
         </div>
@@ -64,7 +64,7 @@ export default function Beginners() {
             <strong>Saucony Ride 18</strong>
             <p>A versatile, well‑balanced shoe that works for walking, jogging, and early training plans.</p>
             
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4tFVkkW" />
         
         </div>
        </div> 
@@ -80,7 +80,7 @@ export default function Beginners() {
             <strong>New Balance 880 v15</strong>
             <p>Balanced cushioning with a stable feel — perfect for new runners who want something reliable and not too soft.</p>
            
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4kCAgYo" />
 
         </div>
         </div>

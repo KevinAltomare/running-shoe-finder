@@ -50,7 +50,7 @@ export default function FlatFeet() {
             <strong>ASICS Gel-Kayano 32</strong>
             <p>Plush cushioning with strong stability features - great for runners who want comfort and structure.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/46wryW3" />
 
         </div>
         </div>
@@ -67,7 +67,7 @@ export default function FlatFeet() {
             <strong>Brooks Adrenaline GTS 25</strong>
             <p>A reliable stabiliity shoe with soft cushioning and GuideRails support that keeps your stride aligned.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4rSsxrB" />
 
         </div>
         </div>
@@ -84,7 +84,7 @@ export default function FlatFeet() {
             <strong>HOKA Arahi 7</strong>
             <p>Max‑cushion comfort with a stable J‑Frame design that supports flat arches without feeling stiff.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/3Ohh1rq" />
 
         </div>
         </div>

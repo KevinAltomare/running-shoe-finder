@@ -51,7 +51,7 @@ export default function ShoeCard({ shoe, explanation, tagline }) {
             </ul>
           )}
         </div>
-        <AffiliateButton href={shoe.affiliateLink} />
+        <AffiliateButton href={shoe.affiliate_link} />
 
       </div>
     </div>

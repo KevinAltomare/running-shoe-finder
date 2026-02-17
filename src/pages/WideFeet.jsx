@@ -46,7 +46,7 @@ export default function WideFeet() {
             <strong>Brooks Ghost 17</strong>
             <p>A balanced, neutral trainer with reliable comfort and true wide sizing.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4akHZXF" />
 
         </div>
         </div>
@@ -61,7 +61,7 @@ export default function WideFeet() {
             <strong>Altra Torin 8</strong>
             <p>Foot‑shaped toe box and zero‑drop platform — great for runners who want maximum toe space.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4rS0OHo" />
 
         </div>
         </div>
@@ -76,7 +76,7 @@ export default function WideFeet() {
             <strong>Saucony Ride 19</strong>
             <p>A versatile daily trainer with a comfortable upper that adapts well to wider feet.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4tCSM70" />
 
         </div>
         </div>

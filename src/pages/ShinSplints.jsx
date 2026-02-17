@@ -46,7 +46,7 @@ export default function ShinSplints() {
             <strong>New Balance Fresh Foam 1080 v15</strong>
             <p>Soft, forgiving cushioning with a flexible forefoot that helps reduce shin stress.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4qBNYMr" />
 
         </div>
         </div>
@@ -61,7 +61,7 @@ export default function ShinSplints() {
             <strong>Asics Gel-Nimbus 28</strong>
             <p>Plush cushioning and strong shock absorption — ideal for reducing impact on the shins.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4tMZdET" />
 
         </div>
         </div>
@@ -76,7 +76,7 @@ export default function ShinSplints() {
             <strong>HOKA Clifton 10</strong>
             <p>Lightweight max cushioning with a gentle rocker that reduces lower‑leg strain.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/40cFCQC" />
 
         </div>
         </div>

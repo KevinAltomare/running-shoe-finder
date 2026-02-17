@@ -2,7 +2,7 @@ import AffiliateButton from "../components/AffiliateButton";
 export default function HighArches() {
   return (
     <div className="seo-page">
-        
+
         <div className="brand-header">
             <h1 className="brand-title">RunMatch</h1>
             <p className="brand-tagline">the running shoe finder</p>
@@ -47,7 +47,7 @@ export default function HighArches() {
             <strong>HOKA Clifton 10</strong>
             <p>Lightweight max‑cushion comfort with a gentle rocker that helps high‑arched runners transition more easily.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/40cFCQC" />
 
         </div>
         </div>
@@ -62,7 +62,7 @@ export default function HighArches() {
             <strong>ASICS Gel-Nimbus 28</strong>
             <p>Plush cushioning with a soft step‑in feel — great for absorbing impact and reducing forefoot pressure.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4tMZdET" />
 
         </div>
         </div>
@@ -77,7 +77,7 @@ export default function HighArches() {
             <strong>Nike Pegasus 41</strong>
             <p>A versatile daily trainer with a slightly higher drop and responsive cushioning that suits high arches well.</p>
               
-            <AffiliateButton href="..." />
+            <AffiliateButton href="https://amzn.to/4kHFu59" />
 
         </div>
         </div>
